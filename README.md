@@ -1,15 +1,15 @@
 # terraform_null_provider
-Content of this repo is guideline HOW to use **null** provider in terraform.
+Content of this repo is a guideline on HOW to use **null** provider in terraform.
 
 **Note that all this is tested on Ubuntu OS**
+
+## PreRequirements
+- You need to have Terraform tool installed
 
 ## Repo content
 - `main.tf` - Terraform configuration file
 
-## Requierments
-- You need to have Terraform tool installed
-
-## Instructions HOW to install **Terraform**
+## Instructions on how to install **Terraform**
 - Download required package from [here](https://www.terraform.io/downloads.html)
 - Change to directory where package is download. For example: `cd $HOME/Downloads/` 
 - Type on your terminal: `unzip <Downloaded_TF_Package>`
